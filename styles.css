@@ -1,0 +1,40 @@
+body {
+    color: powderblue;
+    background-color: lightslategray;
+}
+
+div.a {
+    color: rgb(172, 226, 255);
+    text-align: center;
+}
+
+div.b {
+    color: rgb(172, 226, 255);
+    text-align: center;
+}
+
+div.c {
+    color: rgb(172, 226, 255);
+    text-align: right;
+}
+
+div.d {
+    color: rgb(172, 226, 255);
+    text-align: left;
+}
+
+.alert-text {
+    color: crimson;
+}
+
+#title {
+    background-color: blue;
+}
+
+.subsection.header {
+    color: red;
+  }
+  
+  .subsection#preview {
+    color: blue;
+  }
