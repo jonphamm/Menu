@@ -1,40 +1,28 @@
 body {
     color: powderblue;
-    background-color: lightslategray;
+    background-color: rgb(208, 203, 203)
 }
 
 div.a {
-    color: rgb(172, 226, 255);
+    color: olive;
+    background-color: bisque;
     text-align: center;
+    font-size: 42px;
 }
 
 div.b {
     color: rgb(172, 226, 255);
     text-align: center;
+    font-size: 42px;
 }
 
-div.c {
-    color: rgb(172, 226, 255);
-    text-align: right;
-}
-
-div.d {
-    color: rgb(172, 226, 255);
-    text-align: left;
-}
+img {
+    height: auto;
+    width: 700px;
+  }
+  
 
 .alert-text {
     color: crimson;
 }
 
-#title {
-    background-color: blue;
-}
-
-.subsection.header {
-    color: red;
-  }
-  
-  .subsection#preview {
-    color: blue;
-  }
