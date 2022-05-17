@@ -8,10 +8,13 @@ div.a {
     background-color: bisque;
     text-align: center;
     font-size: 42px;
+    padding: 20px;
+    border: 20px solid black;
+    margin: 20px
 }
 
 div.b {
-    color: rgb(172, 226, 255);
+    color: black;
     text-align: center;
     font-size: 42px;
 }
@@ -22,7 +25,11 @@ img {
   }
   
 
-.alert-text {
+.alert-text,
+p.a {
     color: crimson;
 }
 
+p.a {
+    text-align: center;
+}
