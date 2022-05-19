@@ -24,15 +24,29 @@ div.a {
     font-size: 20px;
     border: 5px double black;
     margin: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+.link {
+    flex: 1;
+    border: 2px double black;
+    background-color: rgb(210, 206, 206);
+    justify-content: center;
+    
 }
 
 div.b {
     color: black;
     text-align: center;
-
 }
 
-
+.free {
+    background-color: white;
+    border: 1px solid black;
+    padding: 2px;
+}
 
 img {
     height: auto;
