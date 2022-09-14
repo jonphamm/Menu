@@ -1,2 +1,2 @@
-# menu
-Restaurant Menu
+# Menu
+Sample Restaurant Menu
